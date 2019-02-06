@@ -35,6 +35,6 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 
-var theFunk = funkyfunction()
+var theFunk = funkyFunction()
 
-thefunk()
+theFunk()
